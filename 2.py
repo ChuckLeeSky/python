@@ -52,4 +52,4 @@ def write_to_mysql(key_list):
 
 
 if __name__ == '__main__':
-    write_to_mysql(generate_key())
+write_to_mysql(generate_key())
